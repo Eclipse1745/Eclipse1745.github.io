@@ -9,3 +9,16 @@ h1 {
 	text-align: center ;
 	color: lightgreen ;
 }
+
+p {
+  text-align: center ;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+      
+}
