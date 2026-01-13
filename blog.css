@@ -1,0 +1,62 @@
+body {
+	color: beige;
+  background:#111;
+  margin-bottom: 200px ;
+  font-family: sans-serif ;
+}
+
+p {
+  text-align: center ;
+}
+h1,h2 {
+	text-align: center ;
+	color: lightgreen;
+}
+a {
+  color: lightgreen;
+}
+.blog-post {
+  border: 2px solid #50FF50;
+  padding: 20px;
+  margin: auto;
+  max-width: auto;
+  box-sizing: border-box; 
+}
+
+.post-title {
+  margin: 0 0 0px 0;
+  text-align: left;
+  font-size: 24px;
+}
+
+.post-date {
+  color: #888;
+  text-align: right;
+  font-size: 14px;
+  margin: 0 0 10px 0;
+}
+
+.blog-post hr {
+  border: none;
+  border-top: 1px solid #50FF50;
+  margin: 10px 0 15px 0;
+}
+
+.post-image {
+  width: 100%;
+  max-width: 100%;
+  max-height: 200px;  
+  object-fit: contain;   
+  display: block;
+  margin: 0 auto 15px auto;
+}
+
+.post-text {
+  text-align: left;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.post-text p {
+  margin: 0 0 12px 0; 
+}

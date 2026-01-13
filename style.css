@@ -1,24 +1,75 @@
 body {
-	color: beige ;
-	background: #111 ;
-	margin-bottom: 200px ;
-    	font-family: sans-serif ;
+	color: beige;
+  background:#111;
+  margin-bottom: 200px ;
+  font-family: sans-serif ;
 }
 
-h1 {
+h1,h2 {
 	text-align: center ;
-	color: lightgreen ;
+	color: lightgreen;
 }
 
 p {
   text-align: center ;
 }
-
-canvas {
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-      
+a {
+  color: lightgreen;
 }
+#tuxandrei {
+  position: absolute;
+  top: 20%;
+  right: 8%;
+  width: 10%;
+}
+.screen-container {
+  position: absolute;
+  top: 100px;
+  left: 5%;
+  width: 205px;
+  height: 308px;
+}
+#timescreen {
+  position: absolute;
+  top: 1px;
+  left: 5%;
+  width: 80%;
+
+}
+.overlay-gif {
+  position: absolute;
+  top: 6%;
+  left: 6%;
+  width: 80%;
+  height: 35%;
+  z-index: 2;
+}
+.blog-section {
+  border: 2px solid #50FF50;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  position: relative;
+}
+
+.blog-link {
+  color: #50FF50;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 20px;
+  }
+
+.blog-link:hover {
+  text-decoration: underline;
+}
+
+.blog-description {
+  text-align: left;
+  margin: 0;
+  padding-top: 10px;
+  border-top: 1px solid #50FF50;
+
+}
+
+

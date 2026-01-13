@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Why You Need to Start Datahoarding",
+    "date": "2025-06-12",
+    "image": {
+      "src": "/media/blogimg/PirateBay.jpg",
+      "alt": "Domestic Girlfriend Cover",
+      "displayMode": "contain"
+    },
+    "content": "<p>Have you ever wanted to watch an old YouTube video, only to find out it's been deleted? Or maybe you tried to revisit a blog or forum thread you <em>swore</em> you bookmarked, only to discover it has vanished without a trace. That sucks, right? It happened to me too — and that’s how I got into datahoarding.</p><p>I first realized the importance of archiving things you like back in 2023, when I wanted to watch a NatGeo series called <strong>Monkey Thieves</strong>. I had memories of watching it as a little kid, and it was a pretty important part of my childhood. My favorite thing about it was its calm, soothing Hindi narration. I know almost every NatGeo series had that kind of narration, but something was different about this one. Maybe it was the contrast between the peaceful narration and the chaotic, full-of-life behavior of the monkeys that made it so unique to me.</p><p>I tried looking up the series everywhere. The only thing I could find was Season 2 on YouTube. Even NatGeo's official site doesn’t have an episode guide for the other two seasons. I eventually found a torrent with all three seasons — but it was in Russian.</p><p>For now, I’ve given up hope of finding the English version — let alone the Hindi version, which is the one I really want to watch. So if anyone reading this happens to have a copy of it, hit me up on <a href=\"https://discord.com/users/878619927928524802\" target=\"_blank\">Discord: @eclipse2k8</a>.</p><p>There have been many other situations like this, where I wished I could go back in time and archive the media I really enjoyed. <strong>This is exactly why you need to start archiving data.</strong></p><p>Buy cheap old hard drives. Use tools like <code>wget</code> to download webpages, <strong>JDownloader</strong> to grab multiple files off a site, and I recently found out about a tool called <a href=\"https://github.com/9001/copyparty\" target=\"_blank\">Copyparty</a>, which makes it easier to host your own file server. There’s also a thriving community dedicated to this — check out <strong>r/DataHoarder</strong> on Reddit.</p><p>So start datahoarding now.</p>"
+  }
+
+]
